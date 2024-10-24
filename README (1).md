@@ -34,3 +34,5 @@ Bu projede, balık türlerinin görüntülerden otomatik olarak tanımlanması i
 - **Karışıklık Matrisi:** Modelin performansını değerlendirmek için bir karışıklık matrisi oluşturulmuştur. Bu matris, tahmin edilen etiketler ile gerçek etiketler arasındaki ilişkiyi gösterir.
 - **Sınıflandırma Raporu:** Modelin sınıflandırma başarısını detaylandıran bir rapor üretilmiştir. Bu rapor, her bir sınıf için doğruluk, hatalar ve diğer metrikleri içerir.
 
+
+[Kaggle Linki](https://www.kaggle.com/code/baharsevinti/akbank-dl-project)
